@@ -1,8 +1,8 @@
-# hello-world
-First Repository
+# Welcome to my introduction, and my Hello World!
 
-Hello, lads and lasses, turtles and ducks,
+I am still very new but am taking a whack at it!
+Please feel free to stick around and check up on my learning process!
 
-I have only wish to introduce to you my very first into stepping the web developement world!
-Please do not be offended if my work reeks of noob!
+Respectively,
+# Klondike
 
